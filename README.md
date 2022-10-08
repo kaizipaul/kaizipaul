@@ -4,21 +4,12 @@
 
 ## Hi There! I'm Paul
 
-- 📔 I’m currently a Student at [Microverse Inc](https://microverse.org).
+- 📔 Student at [Microverse Inc](https://microverse.org).
 - 💻 I’m currently learning to be a Full-Stack Software Developer.
-- 🤓 **Interests**: Movies, Tech News, Football.
+- 🤓 **Interests**: Movies, Tech News, Comic Books, Pop Culture, Anime Football.
 
-<!--
-**kaizipaul/kaizipaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align = 'center' src = 'https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif'>
 
-Here are some ideas to get you started:
+[![Languages and Tools I have used so far](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,jest,webpack,markdown,vscode,github,git)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
