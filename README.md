@@ -1,4 +1,12 @@
-### Hi there 👋
+# Paul Kaizirege Vedasto👨🏽‍💻
+
+**`Full-Stack Software Development Student`**
+
+## Hi There! I'm Paul
+
+- 📔 I’m currently a Student at [Microverse Inc](https://microverse.org).
+- 💻 I’m currently learning to be a Full-Stack Software Developer.
+- 🤓 **Interests**: Movies, Tech News, Football.
 
 <!--
 **kaizipaul/kaizipaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
