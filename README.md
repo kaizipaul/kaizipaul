@@ -1,6 +1,6 @@
 # Paul Kaizirege Vedasto (He/Him)👨🏽‍💻
 
-**`Full-Stack Software Development Student from Dar-es-Salaam, Tanzania`**
+**`Full-Stack Software Development Student from Dar-es-Salaam,Tanzania 🇹🇿`**
 
 ## Hi There! I'm Kai
 
