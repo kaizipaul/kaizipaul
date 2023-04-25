@@ -1,13 +1,14 @@
 # Paul Kaizirege Vedasto (He/Him)👨🏽‍💻
 
-**`Full-Stack Software Development Student from Dar-es-Salaam,Tanzania 🇹🇿`**
+**`Full-Stack Software Developer from Dar-es-Salaam,Tanzania 🇹🇿`**
 
 ## Hi There! I'm Kai
 
-- 📔 Student at [Microverse Inc](https://microverse.org).
-- 💻 I’m currently learning to be a Full-Stack Software Developer.
-- 🤓 **Interests**: Movies, Tech News, Comic Books, Pop Culture, Anime, Football.
-- 💬You can reach out to me via [Email](kaizipaul@gmail.com), and [LinkedIn](https://www.linkedin.com/in/paul-kaizirege-vedasto-89a1b922a/)
+- 🫱🏽‍🫲🏽 Ready to collaborate in JavaScript, React, Ruby and Ruby on Rails projects.
+- 💻 I’m a Full-Stack Software Developer.
+- 📔 Recently graduated from [Microverse Inc](https://microverse.org).
+- 🤓 **Interests**: Movies, Tech News, Football, Comic Books, Pop Culture, Anime.
+- 💬You can reach out to me via [Email](kaizipaul@gmail.com), and [LinkedIn](https://www.linkedin.com/in/kaizipaul/)
 
 <img align = 'center' src = 'https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif'>
 
