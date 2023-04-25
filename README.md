@@ -14,7 +14,7 @@
 
 ## Languages and Tools I have used so far
 
-[![Languages and Tools I have used so far](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,sass,figma,jest,webpack,ruby,markdown,vscode,github,git)](https://skillicons.dev)
+[![Languages and Tools I have used so far](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,sass,figma,jest,webpack,ruby,rails,markdown,vscode,github,git)](https://skillicons.dev)
 
 ![Kai's 𝚐𝚒𝚝𝚑𝚞𝚋 stats](https://github-readme-stats.vercel.app/api?username=kaizipaul&show_icons=true&theme=radical)
 
