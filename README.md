@@ -1,6 +1,6 @@
 # Paul Kaizirege Vedasto (He/Him) 👨🏽‍💻
 
-**`Full-Stack Developer & Operations Lead · Dar-es-Salaam, Tanzania 🇹🇿`**
+**`Full-Stack Developer · Information Security Graduate · Dar-es-Salaam, Tanzania 🇹🇿`**
 
 ## Hi There! I'm Kai
 
