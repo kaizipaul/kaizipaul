@@ -6,7 +6,7 @@
 
 - 💻 Full-Stack Developer working with **JavaScript, Ruby, Python, React, Next.js, Ruby on Rails and Django**.
 - 🧭 Operations Lead at **Mtabe Innovations / Kinara Technologies** (Sep 2024 – Dec 2025): led AI feature development and worked across product, engineering and marketing.
-- 🔐 Studying for a **Bachelor's in Information Security** at Unique Academy (graduating Aug 2026).
+- 🔐 Holds a **Bachelor's Degree in Information Security** from Unique Academy (2026).
 - 🎓 Graduate of [Microverse](https://microverse.org), where I later mentored 10+ developers.
 - 🫱🏽‍🫲🏽 Open to collaborating on full-stack, AI-integration and security-focused projects.
 - 🤓 **Interests**: Movies, Tech News, Football, Comic Books, Pop Culture, Anime.
