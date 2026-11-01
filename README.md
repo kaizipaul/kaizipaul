@@ -1,6 +1,6 @@
 # Paul Kaizirege Vedasto (He/Him)👨🏽‍💻
 
-**`Full-Stack Software Developer from Dar-es-Salaam,Tanzania 🇹🇿`**
+**`Full-Stack Software Developer from Dar-es-Salaam, Tanzania 🇹🇿`**
 
 ## Hi There! I'm Kai
 
@@ -8,7 +8,7 @@
 - 💻 I’m a Full-Stack Software Developer.
 - 📔 Recently graduated from [Microverse Inc](https://microverse.org).
 - 🤓 **Interests**: Movies, Tech News, Football, Comic Books, Pop Culture, Anime.
-- 💬You can reach out to me via [Email](kaizipaul@gmail.com), and [LinkedIn](https://www.linkedin.com/in/kaizipaul/)
+- 💬You can reach out to me via [Email](mailto:kaizipaul@gmail.com), and [LinkedIn](https://www.linkedin.com/in/kaizipaul/)
 
 <img align = 'center' src = 'https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif'>
 
