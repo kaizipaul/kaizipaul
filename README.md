@@ -35,6 +35,8 @@
 
 [![Languages and Tools](https://skillicons.dev/icons?i=js,ruby,py,html,css,cpp,postgres,react,nextjs,redux,rails,django,flutter,bootstrap,tailwind,supabase,git,docker,vscode,jest,heroku,netlify,vercel&perline=8)](https://skillicons.dev)
 
+**Security:** Ethical Hacking · Network Security · AES-256-GCM Encryption · PII Protection · Secure Authentication
+
 **Also:** RSpec · Strapi CMS · SEO · Google Analytics · Agile Project Management · Pair Programming
 
 ## 📊 GitHub Stats
