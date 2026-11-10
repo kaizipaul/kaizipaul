@@ -217,7 +217,7 @@ def about():
     lh, top = 22, 62
     h = top + len(lines) * lh + 16
     tab_w = 110
-    body = [box(10, 6, W - 20, h - 12, rx=10),
+    body = [box(10, 6, W - 20, h - 12, rx=6),
             f'<line x1="10" y1="40" x2="{W - 10}" y2="40" stroke="{{line}}"/>',
             f'<line x1="{10 + tab_w}" y1="6" x2="{10 + tab_w}" y2="40" stroke="{{line}}"/>',
             f'<line x1="11" y1="39" x2="{10 + tab_w}" y2="39" stroke="{{accent}}" stroke-width="2"/>',
@@ -333,7 +333,7 @@ def stack():
 def footer():
     """The portfolio's `npx connect` terminal card."""
     h = 108 + len(CONNECT) * 22 + 40
-    body = [box(10, 6, W - 20, h - 12, rx=10),
+    body = [box(10, 6, W - 20, h - 12, rx=6),
             t(32, 38, "$", 13, "accent"), t(48, 38, "npx connect", 13, "fg"),
             t(32, 62, "✓ Initializing...", 13, "muted"),
             t(32, 82, "Ready to connect.", 13, "muted")]
