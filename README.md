@@ -1,46 +1,37 @@
-# Paul Kaizirege Vedasto (He/Him) 👨🏽‍💻
+<div align="center">
 
-**`Full-Stack Developer · Information Security Graduate · Dar-es-Salaam, Tanzania 🇹🇿`**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Paul Kaizirege Vedasto — Full-Stack Developer · Information Security Graduate"/></picture>
 
-## Hi There! I'm Kai
+<a href="https://portfolio-v3-0-plum.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=f43f5e&labelColor=000000"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=vercel&logoColor=e11d48&labelColor=ffffff" alt="Portfolio"/></picture></a>
+<a href="https://github.com/kaizipaul"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=f43f5e&labelColor=000000"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=e11d48&labelColor=ffffff" alt="Github"/></picture></a>
+<a href="https://www.linkedin.com/in/kaizipaul/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=f43f5e&labelColor=000000"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=e11d48&labelColor=ffffff" alt="Linkedin"/></picture></a>
+<a href="mailto:paulkaizirege@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=f43f5e&labelColor=000000"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=e11d48&labelColor=ffffff" alt="Email"/></picture></a>
 
-- 💻 Full-Stack Developer working with **JavaScript, Ruby, Python, React, Next.js, Ruby on Rails and Django**.
-- 🧭 Operations Lead at **Mtabe Innovations / Kinara Technologies** (Sep 2024 – Dec 2025): led AI feature development and worked across product, engineering and marketing.
-- 🔐 Holds a **Bachelor's Degree in Information Security** from Unique Academy (2026).
-- 🎓 Graduate of [Microverse](https://microverse.org), where I later mentored 10+ developers.
-- 🫱🏽‍🫲🏽 Open to collaborating on full-stack, AI-integration and security-focused projects.
-- 🤓 **Interests**: Movies, Tech News, Football, Comic Books, Pop Culture, Anime.
-- 💬 Reach me via [Email](mailto:paulkaizirege@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kaizipaul/).
+</div>
 
-<img align="center" src="https://media.giphy.com/media/8YTKIi3WJjvux2GS32/giphy.gif" alt="Coding animation">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="About — about.ts"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Paul"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="Security — threat-model.md"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/security.svg"/><img src="assets/security.svg" alt="End-to-end encryption data flow"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="Pinned — projects.md"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Selected projects"/></picture>
+<p align="right"><sub><a href="https://portfolio-v3-0-plum.vercel.app/">portfolio-v3.0 — live ↗</a></sub></p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="Telemetry — github.stats"/></picture>
 
-## 🚀 Selected Projects
+<div align="center">
 
-| Project | Stack | What it does |
-|---------|-------|--------------|
-| **End-to-End Encryption Framework** | Django, SQL, AES-256-GCM | Protects users' personally identifiable information (PII) even if the database is breached. Final-year Information Security project. |
-| **Mtabe Web & Mobile Platform** | Django, Flutter, REST API, Next.js | Cross-team platform with analytics and real-time user-engagement dashboards. |
-| **Buzz Teenz Voting Platform** | Next.js, Supabase, Strapi CMS, Vercel | Content delivery and real-time voting with Supabase auth. |
-| **Weather Report App** | React, Redux, REST API, Netlify | Weather forecasts from open REST APIs, with Redux state management. |
-| **Rent-a-Car Platform** | React, Ruby on Rails, Redux, Bootstrap | Car reservations with authentication, booking forms and availability checks. |
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaizipaul&show_icons=true&hide_border=true&bg_color=00000000&title_color=f43f5e&text_color=9ca3af&icon_color=f43f5e&ring_color=f43f5e"/><img src="https://github-readme-stats.vercel.app/api?username=kaizipaul&show_icons=true&hide_border=true&bg_color=00000000&title_color=e11d48&text_color=4b5563&icon_color=e11d48&ring_color=e11d48" width="49%" alt="GitHub statistics"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizipaul&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=f43f5e&text_color=9ca3af"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizipaul&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=e11d48&text_color=4b5563" width="41%" alt="Top languages"/></picture>
 
-## 💼 Experience
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kaizipaul&bg_color=00000000&color=9ca3af&title_color=f43f5e&line=f43f5e&point=f3f4f6&area_color=f43f5e&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=kaizipaul&bg_color=00000000&color=4b5563&title_color=e11d48&line=e11d48&point=111827&area_color=e11d48&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
-- **Operations Lead**, Mtabe Innovations / Kinara Technologies · 2024 – 2025
-- **Full-Stack Developer (Contract)**, Freelance · 2023 – 2024
-- **Mentor (Volunteer)**, Microverse · 2022 – 2023
-- **IT Support Technician**, Computer Center Tanzania Ltd · 2017 – 2019
+</div>
 
-## 🛠️ Languages and Tools
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="Experience — experience.md"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/experience.svg"/><img src="assets/experience.svg" alt="Professional experience"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/><img src="assets/timeline.svg" alt="Development timeline"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s06.svg"/><img src="assets/s06.svg" alt="Skills — skills.json"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="npx connect — GitHub, LinkedIn, email"/></picture>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=js,ruby,py,html,css,cpp,postgres,react,nextjs,redux,rails,django,flutter,bootstrap,tailwind,supabase,git,docker,vscode,jest,heroku,netlify,vercel&perline=8)](https://skillicons.dev)
-
-**Security:** Ethical Hacking · Network Security · AES-256-GCM Encryption · PII Protection · Secure Authentication
-
-**Also:** RSpec · Strapi CMS · SEO · Google Analytics · Agile Project Management · Pair Programming
-
-## 📊 GitHub Stats
-
-![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaizipaul&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaizipaul&langs_count=8&theme=radical&layout=compact)
+<!-- Panels are generated by scripts/build_assets.py: edit the DATA section there and re-run it. -->
