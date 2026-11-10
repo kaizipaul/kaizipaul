@@ -178,11 +178,17 @@ def svg(h, body, alt):
 BLINK = '<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>'
 
 # ----------------------------------------------------------------- PANELS
+def avatar_uri():
+    """Embed the avatar as a data URI: GitHub won't load external images inside an SVG."""
+    import base64
+    return "data:image/jpeg;base64," + base64.b64encode((ROOT / "assets" / "avatar.jpg").read_bytes()).decode()
+
+
 def header():
-    # avatar-style monogram in an accent frame, like the portfolio's profile card
+    # avatar in an accent frame, like the portfolio's profile card
     body = [box(10, 10, 132, 132, rx=12, stroke="accent", fill="panel", extra='stroke-width="2"'),
-            t(76, 92, "PK", 46, "fg", "700", "middle"),
-            t(76, 118, "</>", 14, "accent", anchor="middle"),
+            '<clipPath id="av"><rect x="12" y="12" width="128" height="128" rx="10"/></clipPath>',
+            f'<image x="12" y="12" width="128" height="128" clip-path="url(#av)" href="{avatar_uri()}"/>',
             t(170, 50, NAME, 30, "fg", "700", extra='letter-spacing="1"'),
             f'<rect x="{170 + tw(NAME, 30) + len(NAME) + 6:.1f}" y="26" width="14" height="28" fill="{{accent}}">{BLINK}</rect>',
             t(170, 80, ROLE, 14, "accent", extra='letter-spacing="0.5"'),
