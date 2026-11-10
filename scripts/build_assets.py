@@ -45,18 +45,18 @@ PROJECTS = [
     ("pii-encryption-framework", "research", "2026",
      "Information Security capstone — keeps users' personal data (PII) unreadable even if the database is breached, using end-to-end AES-256-GCM encryption.",
      ["Python", "Django", "Cryptography", "Security", "Research"]),
+    ("srms-shuleis", "in dev", "2025",
+     "Multi-tenant SaaS for managing student records across schools — multiple schools manage their student data in isolated tenants from a single deployment.",
+     ["Django", "Next.js", "Multi-tenant"]),
+    ("portfolio-v3.0", "live", "2026",
+     "Minimal developer portfolio built with Astro and TailwindCSS. Features a VS Code-inspired tab interface, animated terminal, and dark/light mode toggle.",
+     ["Astro", "TypeScript", "TailwindCSS"]),
     ("mtabe-platform", None, "2024",
      "Cross-team web & mobile learning platform with analytics and real-time engagement dashboards.",
      ["Django", "Flutter", "REST API", "Next.js"]),
     ("buzz-teenz-voting", None, "2024",
      "Content delivery and real-time voting with Supabase authentication.",
      ["Next.js", "Supabase", "Strapi", "Vercel"]),
-    ("weather-report-app", None, "2023",
-     "Forecasts from open weather APIs with Redux state management.",
-     ["React", "Redux", "REST API", "Netlify"]),
-    ("rent-a-car", None, "2023",
-     "Car reservations with auth, booking forms and availability checks.",
-     ["React", "Ruby on Rails", "Redux", "Bootstrap"]),
 ]
 
 TIMELINE = [  # (year, label)
@@ -152,7 +152,21 @@ def chips(x, y, labels, max_x, size=12, active=False, gap=7):
     return "".join(out), y + 24
 
 
-STATUS = {"research": ("◆", "accent"), "in dev": ("◐", "amber"), "live": ("●", "green")}
+STATUS = {"research": "accent", "in dev": "amber", "live": "green"}
+
+
+def status_tag(right, y, status):
+    """Right-aligned status label with a drawn icon (font glyphs like ◐ render inconsistently)."""
+    c = STATUS[status]
+    cx, cy = right - tw(status, 12) - 10, y - 4
+    if status == "research":
+        icon = f'<rect x="{cx - 3.5:.1f}" y="{cy - 3.5:.1f}" width="7" height="7" fill="{{{c}}}" transform="rotate(45 {cx:.1f} {cy:.1f})"/>'
+    elif status == "in dev":
+        icon = (f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="4.5" fill="none" stroke="{{{c}}}" stroke-width="1.4"/>'
+                f'<path d="M{cx:.1f} {cy - 4.5:.1f} a4.5 4.5 0 0 0 0 9 z" fill="{{{c}}}"/>')
+    else:
+        icon = f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="4.5" fill="{{{c}}}"/>'
+    return icon + t(right, y, status, 12, c, anchor="end")
 
 
 def svg(h, body, alt):
@@ -274,8 +288,7 @@ def projects():
         body.append(doc_icon(28, y + 6))
         body.append(t(48, y + 18, name, 15, "fg", "600"))
         if status:
-            glyph, color = STATUS[status]
-            body.append(t(W - 12, y + 18, f"{glyph} {status}", 12, color, anchor="end"))
+            body.append(status_tag(W - 12, y + 18, status))
         else:
             body.append(t(W - 12, y + 18, year, 12, "muted", anchor="end"))
         for j, ln in enumerate(lines):
