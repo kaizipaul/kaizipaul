@@ -2,6 +2,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Paul Kaizirege Vedasto — Full-Stack Developer · Information Security Graduate"/></picture>
 
+<a href="https://portfolio-v3-0-plum.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=f43f5e&labelColor=000000"/><img src="https://img.shields.io/badge/PORTFOLIO-ffffff?style=flat-square&logo=vercel&logoColor=e11d48&labelColor=ffffff" alt="Portfolio"/></picture></a>
 <a href="https://github.com/kaizipaul"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=f43f5e&labelColor=000000"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=e11d48&labelColor=ffffff" alt="Github"/></picture></a>
 <a href="https://www.linkedin.com/in/kaizipaul/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=f43f5e&labelColor=000000"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=e11d48&labelColor=ffffff" alt="Linkedin"/></picture></a>
 <a href="mailto:paulkaizirege@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=f43f5e&labelColor=000000"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=e11d48&labelColor=ffffff" alt="Email"/></picture></a>
@@ -14,6 +15,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/security.svg"/><img src="assets/security.svg" alt="End-to-end encryption data flow"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="Pinned — projects.md"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Selected projects"/></picture>
+<p align="right"><sub><a href="https://portfolio-v3-0-plum.vercel.app/">portfolio-v3.0 — live ↗</a></sub></p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="Telemetry — github.stats"/></picture>
 
 <div align="center">
